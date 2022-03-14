@@ -3,7 +3,7 @@
 <h2>Contributors</h2>
 <ul>
 <li>Prof Matt Longley</li>
-<li>Zachary Griffin/li>
+<li>Zachary Griffin</li>
 
 </ul>
 
