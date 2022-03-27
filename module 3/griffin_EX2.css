@@ -1,0 +1,37 @@
+
+<html>
+<head>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="description" content="Free Web tutorials">
+        <meta name="keywords" content="HTML, CSS, JavaScript">
+        <meta name="author" content="John Doe">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      </head>
+    <title>CSD 340 Web Development with HTML and CSS</title>
+    <h1>Title of Book / UFOs in Area 51</h1>
+    <h2>Chapter 2: Aliens</h2>
+    <body>
+        <p>font-size: 16px;
+        font-family: Red/Black, sans-serif;
+
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis lacinia arcu eu nibh bibendum, ac imperdiet justo feugiat. Duis id quam quis nisl tempor rhoncus pellentesque eu lorem. Praesent dapibus posuere erat non commodo. Duis faucibus orci ac scelerisque luctus. Nullam ullamcorper ipsum vitae tortor feugiat aliquet. Nunc et molestie dui, vitae accumsan diam. Pellentesque sed fermentum diam, a consectetur sem. Mauris non quam diam. Donec congue purus nec felis fermentum sodales. Donec gravida lectus at sagittis ullamcorper. Duis sit amet leo eget tellus sodales posuere vitae sed mi. Fusce vel urna in libero tempus viverra nec ac risus. In malesuada elementum condimentum. Etiam auctor, nibh quis pellentesque sagittis, odio lorem accumsan odio, a facilisis sapien justo at felis. Suspendisse lacus erat, interdum sodales eros non, tempor hendrerit augue. Cras massa ligula, porta eget dapibus et, accumsan sed arcu.
+        </P><hr /> 
+            <p>font-weight: 500;// boldDonec tempus aliquam metus. Curabitur egestas, metus sit amet pellentesque placerat, nisl orci rhoncus lacus, a varius justo nibh vitae leo. Praesent nec viverra urna, at pellentesque odio. Praesent finibus diam mi, eu accumsan ipsum scelerisque ac. Donec sed auctor urna, sed aliquet ante. Pellentesque iaculis nulla tortor, in rhoncus orci posuere a. Pellentesque vitae sem lacus. Donec porta ornare dolor, sit amet imperdiet odio tempus ultrices. Sed efficitur, elit vel fermentum cursus, eros quam sodales nunc, vitae suscipit nulla nulla sed justo. Donec feugiat dui vel purus gravida, at aliquet augue vehicula. Phasellus ut nulla at dui pretium mattis in posuere nulla. Cras tincidunt magna sed ligula aliquam aliquet. Cras quis rutrum lorem. Cras porttitor erat id cursus placerat.
+        </p><hr /> 
+            <P>Sed sit amet vestibulum metus, eu feugiat magna. Sed nibh ipsum, varius nec elit dictum, congue rhoncus ex. Duis facilisis aliquam cursus. Sed feugiat velit et nisl sagittis egestas. Mauris at lorem in nulla accumsan tristique non posuere dui. Nunc mauris nulla, viverra eu mi vitae, interdum aliquet diam. Praesent blandit at erat at finibus. Fusce aliquam odio in hendrerit imperdiet. Duis venenatis libero nisl, sed porttitor mauris mattis interdum.
+            </P>
+
+           <p></p><hr /> 
+           font-weight: 700;// bold
+
+            Aenean pellentesque leo dolor, nec tincidunt tortor facilisis vel. Aliquam volutpat luctus neque id semper. In est ante, elementum a sem ut, molestie rhoncus felis. Suspendisse potenti. Vestibulum consectetur mi non ante fringilla, at fringilla magna tristique. Cras feugiat dictum aliquet. Suspendisse venenatis maximus diam efficitur ultricies. Ut porta facilisis mi, sit amet blandit est pulvinar quis. Proin quis nisi vehicula, pretium turpis id, commodo eros. Proin convallis nulla a mollis pharetra. Suspendisse potenti. Suspendisse convallis sem nec nunc pretium, vitae dapibus ipsum luctus. Phasellus commodo tellus nec leo posuere, id efficitur diam pellentesque. Sed quis urna eu orci pellentesque fermentum sit amet id odio. Cras fermentum arcu lorem, quis rutrum arcu euismod quis. Aliquam convallis, mi eget bibendum laoreet, augue nunc dignissim nibh, ac bibendum est ante euismod lectus.
+        </p><hr /> 
+        <div id=”container”></div>
+        <address><p></p>1000 Galvin Rd S,</p> 
+            <p>Bellevue, NE </p>
+            <p>68005</p></address>
+        <h1>Assignment 3.2</h1>
+    </body>
+</head>
+</html>
